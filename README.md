@@ -1,2 +1,2 @@
 # study-cobol
-COBOL is an obsolete language, but I've always been curious about it.
+COBOL is an obsolete language, but I've been curious about the actual code level for a long time.
