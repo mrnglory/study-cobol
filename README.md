@@ -36,7 +36,7 @@ COBOL is too obsolete to study these days, but I've been curious about the actua
 - the biggest things in COBOL program are DIVISIONS.
 - and within those divisions there are sections, and within those sections you'll find paragraphs, those paragraphs contain sentences and sentences have statements.
 - let's start at the statement and work out.
-    - statement is usually starting with one of those reserved words, something like ADD, DIVIDE, MODE, COMPUTE, and so on.
+    - statement is usually starting with one of those reserved words, something like ADD, DIVIDE, MOVE, COMPUTE, and so on.
     - example: `ADD 2 TO TOTAL.`
     - `.` is an implicit scope terminator.
     - if statement example
